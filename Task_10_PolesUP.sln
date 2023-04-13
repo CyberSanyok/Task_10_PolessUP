@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_10_PolesUP", "Task_10_PolesUP\Task_10_PolesUP.csproj", "{FF330E57-B3C3-4C95-AD0D-3385DD3470D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF330E57-B3C3-4C95-AD0D-3385DD3470D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF330E57-B3C3-4C95-AD0D-3385DD3470D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF330E57-B3C3-4C95-AD0D-3385DD3470D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF330E57-B3C3-4C95-AD0D-3385DD3470D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9FBF6C46-9030-428B-9C9F-B9547BD9B53F}
+	EndGlobalSection
+EndGlobal
